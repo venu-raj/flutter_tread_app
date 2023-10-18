@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172718830384",
+    "project_id": "flutter-treads-clone",
+    "storage_bucket": "flutter-treads-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172718830384:android:cff685e6c904c2fa950ef5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_treads_clone_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5SjHFH3alUs-CgY8dBRtihLeP-mdShdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
